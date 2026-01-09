@@ -17,4 +17,4 @@ colaborativo utilizando Git Y Git Hub
 ### Tabla de ejercicios 
 |No.|Descripcion|Potenciador|Estatus|
 |----|------|-----|-----|
-|1|Declaracion de Variables|1|En Proseso|
+|1|Declaracion de Variables|1|Terminado|
