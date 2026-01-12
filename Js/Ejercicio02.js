@@ -70,3 +70,36 @@ console.log(`Precio Propiedad: ${priceProperty} | tipo = ${typeof priceProperty}
 console.log(`Latitud: ${latGPS} | tipo = ${typeof latGPS}`);
 console.log(`Longitud: ${longGPS} | tipo = ${typeof longGPS}`);
 console.log(`Altitud: ${altGPS} | tipo = ${typeof altGPS}`);
+
+// =========================================================================================
+// 4.- STRING
+// =========================================================================================
+
+var fullnameOwner = "María Fernanda López";
+let nameProperty = "Departamento Ejecutivo en Zona Financiera";
+let descriptionProperty = "Departamento moderno de 2 recámaras, 1 baño, estacionamiento privado y acceso controlado, ubicado en el corazón de la zona financiera, ideal para profesionistas.";
+
+var estatus = "En Renta";
+let typeProperty = "D";
+var addressProperty = "Av. Reforma 250, Ciudad de México";
+
+/* 
+Los tipos de datos STRING representan valores cualitativos dentro del sistema,
+permitiendo modelar información descriptiva sin una longitud fija,
+compuesta por caracteres alfanuméricos y símbolos especiales.
+*/
+
+console.warn("4.- STRING (CADENA DE CARACTERES, PALABRAS)");
+
+console.log(`El usuario: ${fullnameOwner}, está ofertando la propiedad: ${nameProperty}
+que se describe como: ${descriptionProperty}
+actualmente se encuentra en estatus: ${estatus} y corresponde al tipo: ${typeProperty}.`);
+
+console.log(`Las variables declaradas corresponden al tipo de dato:
+fullnameOwner : ${typeof (fullnameOwner)}
+nameProperty : ${typeof (nameProperty)}
+descriptionProperty : ${typeof (descriptionProperty)}
+estatus : ${typeof (estatus)}
+typeProperty : ${typeof (typeProperty)}
+addressProperty : ${typeof (addressProperty)}
+`);
