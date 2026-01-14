@@ -18,3 +18,4 @@ colaborativo utilizando Git Y Git Hub
 |No.|Descripcion|Potenciador|Estatus|
 |----|------|-----|-----|
 |1|Declaracion de Variables|1|Terminado|
+|2|Tipos de Datos |7|Terminado|
