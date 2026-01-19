@@ -19,3 +19,5 @@ colaborativo utilizando Git Y Git Hub
 |----|------|-----|-----|
 |1|Declaracion de Variables|1|Terminado|
 |2|Tipos de Datos |7|Terminado|
+|3|funciones|7|terminado|
+
