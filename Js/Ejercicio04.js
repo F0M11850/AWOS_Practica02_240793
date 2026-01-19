@@ -56,3 +56,6 @@ console.log("Objeto Property 2:", property2);
 
 // Ejemplo de uso:
 console.log(`La propiedad de ${property2.name} incluye ${property2.includedServices.length} servicios.`);
+
+//Impresion del objeto  en formato de tabla
+console.table(property2);
