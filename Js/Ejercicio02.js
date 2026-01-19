@@ -3,8 +3,9 @@
 // EJERCICIO 02: TIPOS DE DATOS
 // =========================================================================================
 
-// Usamos una validación para la constante de estilo
-const style_ejercicio = "color: white; background: #222; padding: 5px; border-radius: 5px;";
+const bg = "linear-gradient(45deg, rgba(52, 152, 219, 1) 0%, rgba(26, 188, 156, 1) 50%)";
+const style_console = `background: ${bg}; color:white; border-radius: 6px; padding:4px; font-size:1.0rem; font-weight:bold`;
+const style_ejercicio = "background: #1abc9c; color:white; border-radius: 6px; padding:4px; font-weight:bold; font-size:1.0rem";
 
 console.log("%c2.- Ejercicio 02: Tipos de Datos", style_ejercicio);
 
